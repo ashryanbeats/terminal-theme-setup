@@ -7,4 +7,4 @@
 
 ## About the Terminal theme
 
-The Slate Ash theme is a minor variation on the Slate theme available in [`macos-terminal-themes](https://github.com/lysyi3m/macos-terminal-themes/tree/master).
+The Slate Ash theme is a minor variation on the Slate theme available in [`macos-terminal-themes`](https://github.com/lysyi3m/macos-terminal-themes/tree/master).
